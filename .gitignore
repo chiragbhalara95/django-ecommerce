@@ -1,1 +1,3 @@
 /ecommerceEnv
+.env
+/ecommerce/ecommerce/__pycache__
